@@ -27,7 +27,7 @@ def download_unzipped(url):
 
 
 def get_linux_db():
-    string = download_unzipped("https://raw.githubusercontent.com/theypsilon/LinuxDB_MiSTer/db/db.json")
+    string = download_unzipped("https://raw.githubusercontent.com/theypsilon/LinuxDB_MiSTer/db/linuxdb.json")
     return json.loads(string)
 
 
