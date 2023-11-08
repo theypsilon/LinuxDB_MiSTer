@@ -1,0 +1,12 @@
+{
+    "db_id":"theypsilon/LinuxDB",
+    "files":{},
+    "folders":{},
+    "linux":{
+        "hash":"a6651d603b5a6c825579b618d9550a1e",
+        "size":93745153,
+        "url":"https://raw.githubusercontent.com/MiSTer-devel/SD-Installer-Win64_MiSTer/f498c08188793fb9e80c0c4cb0ad04fce9c1c307/release_20231108.7z",
+        "version":"231108"
+    },
+    "timestamp":1699439228
+}
