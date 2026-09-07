@@ -1,0 +1,12 @@
+{
+    "db_id":"theypsilon/LinuxDB",
+    "files":{},
+    "folders":{},
+    "linux":{
+        "hash":"8cd4edca838fdc226390e3fb04f3ca79",
+        "size":117936766,
+        "url":"https://github.com/MiSTer-devel/Distribution_MiSTer/releases/download/all_releases/linux_release_20260907.7z",
+        "version":"260907"
+    },
+    "timestamp":1788824701
+}
